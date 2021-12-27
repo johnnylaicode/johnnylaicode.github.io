@@ -9,12 +9,12 @@ gitbook_version:  3.2.3
 
 # *** Update URL
 url:              'https://johnnylaicode.github.io'
-# *** Remove baseurl
+# *** Update baseurl
 baseurl:          'https://johnnylaicode.github.io'
 rss:              RSS
 
 # *** Need to add this line!!!
-encoding: UTF-8
+encoding:         UTF-8
 
 toc:
   enabled: true
