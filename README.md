@@ -1,2 +1,2 @@
 # johnnylaicode.github.io
-Johnny Lai's GitHub Pages.
+Johnny Lai's GitHub Pages website.
