@@ -1,16 +1,30 @@
 # Configurations
 title:            Johnny Lai Website
-longtitle:        Johnny Lai Website
+longtitle:        Welcome to my website.
+# *** Added Home tile.
+hometitle:        Home
+
 description: >
-  Build Jekyll site with the GitBook style.
+  Johnny Lai GitHub Pages website.
 
 version:          1.0
 gitbook_version:  3.2.3
 
 # *** Update URL
 url:              'https://johnnylaicode.github.io'
-# *** Update baseurl
+
+# *** Use this baseurl for local testing.
+#baseurl:          '/jekyll-gitbook'
+#baseurl:          ''
+# *** Use this baseurl for GitHub Pages hosting.
 baseurl:          'https://johnnylaicode.github.io'
+
+# *** Added home page URL.
+# *** Use this homeurl for local testing.
+#homeurl: 'http://localhost:4000'
+# *** Use this homeurl for GitHub Pages hosting.
+homeurl: 'https://johnnylaicode.github.io'
+
 rss:              RSS
 
 # *** Need to add this line!!!

@@ -8,7 +8,7 @@
                 <a href="{{site.baseurl}}" >{{ page.title | escape }}</a>
             {% else %}
                 <!-- <a href="." >{{ site.title | escape }}</a> -->
-                <a href="{{site.baseurl}}" >{{ site.title | escape }}</a>
+                <a href="{{site.baseurl}}" >{{ site.hometitle | escape }}</a>
             {% endif %}
         </h1>
     </div>
@@ -21,7 +21,7 @@
                         {% if page.title %}
                             <h1 id="{{ page.id }}">{{ page.title | escape }}</h1>
                         {% else %}
-                            <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
+                            <h1 id="{{ page.id }}">{{ site.longtitle | escape }}</h1>
                         {% endif %}
 
                         {{ content }}
