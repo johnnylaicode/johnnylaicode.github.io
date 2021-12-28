@@ -1,6 +1,6 @@
 # Configurations
 title:            Johnny Lai Website
-longtitle:        Welcome to my website.
+longtitle:        Welcome to my website
 # *** Added Home tile.
 hometitle:        Home
 
@@ -24,7 +24,8 @@ baseurl:          ''
 # *** Use this homeurl for local testing.
 #homeurl: 'http://localhost:4000'
 # *** Use this homeurl for GitHub Pages hosting.
-homeurl: 'https://johnnylaicode.github.io'
+#homeurl: 'https://johnnylaicode.github.io'
+homeurl: '/'
 
 rss:              RSS
 
