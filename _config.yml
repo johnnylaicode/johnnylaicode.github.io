@@ -12,7 +12,7 @@ gitbook_version:  3.2.3
 
 # *** Update URL
 #url:              'https://johnnylaicode.github.io'
-url: ''
+url:              ''
 
 # *** Use this baseurl for local testing.
 #baseurl:          '/jekyll-gitbook'
