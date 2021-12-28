@@ -15,9 +15,9 @@ url:              'https://johnnylaicode.github.io'
 
 # *** Use this baseurl for local testing.
 #baseurl:          '/jekyll-gitbook'
-#baseurl:          ''
+baseurl:          ''
 # *** Use this baseurl for GitHub Pages hosting.
-baseurl:          'https://johnnylaicode.github.io'
+#baseurl:          'https://johnnylaicode.github.io'
 
 # *** Added home page URL.
 # *** Use this homeurl for local testing.
